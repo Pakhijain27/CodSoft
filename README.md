@@ -1,5 +1,3 @@
-Based on the projects you've mentioned, here's a customized **README.md** for your **CodSoft** repository:
-
 ```markdown
 # CodSoft Python Projects
 
@@ -95,12 +93,3 @@ If you would like to contribute to this repository, feel free to fork it and sub
 ## License
 This repository is licensed under the [MIT License](LICENSE).
 ```
-
-### Explanation of Sections:
-- **Projects**: This section now clearly lists the projects you're working on with a brief description of each (Rock Paper Scissors, Password Generator, Contact Book, and Simple Arithmetic Calculator).
-- **Technologies Used**: Lists the core libraries you might use (e.g., `random` for generating random values, `os` for handling file operations).
-- **Installation**: Instructions on how to clone the repo and install any dependencies (if applicable).
-- **Usage**: A detailed description of how to navigate to each project folder and run the corresponding script.
-- **Contributing**: Invitation for others to contribute.
-
-Feel free to adjust the file structure, script names, or library dependencies based on your exact project setup.
