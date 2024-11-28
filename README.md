@@ -1,4 +1,5 @@
-```markdown
+__CodSoft__
+
 **CodSoft Python Projects**
 
 Welcome to the **CodSoft** repository! This repository contains Python projects developed during my internship at CodSoft. These projects include various simple applications to practice coding skills and showcase solutions to common programming challenges.
@@ -7,6 +8,7 @@ Welcome to the **CodSoft** repository! This repository contains Python projects 
 During my internship at **CodSoft**, I am working on developing small Python applications and utilities to solve real-world problems. This repository serves as a collection of those projects, providing hands-on experience and learning.
 
 **Projects**
+
 Here are the Python projects in this repository:
 
 1. **Rock Paper Scissors**  
