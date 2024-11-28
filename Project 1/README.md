@@ -1,15 +1,23 @@
-CodSoft
+# Rock, Paper, Scissors Game
 
-Internship projects for CodSoft
+A simple implementation of the **Rock, Paper, Scissors** game using Python. This project allows the user to play against the computer by selecting one of the three options(Rock, Paper, Scissors) and having the game determine the winner based on the rules:
 
-This repository contains the projects developed as part of my internship at CodSoft. Each project focuses on different aspects of Python programming, such as task management, password generation, games, and more.
+- Rock beats Scissors
+- Scissors beats Paper
+- Paper beats Rock
 
-Projects
-Project 1: Rock Paper Scissors
-A Python game of Rock Paper Scissors where users can play against the computer. The computer randomly selects an option and determines the winner.
+## Features
 
-Project 2: Simple Arithmetic Calculator
-A command-line Calculator application that supports basic arithmetic operations like addition, subtraction, multiplication, and division.
+- Player vs Computer gameplay
+- The game randomly selects the computer's choice
+- A simple, interactive command-line interface
+- Replays the game until the player chooses to quit
 
-Project 3: Contact Book
-A Contact Book application where users can add, view, update, and delete contact information. The contact details are saved in a file (contacts.txt).
+## How to Play
+
+1. Run the Python script.
+2. Enter your choice: Rock, Paper, or Scissors.
+3. The computer will randomly select its choice.
+4. The game will display the winner or it's a tie based on the rules agter each round.
+5. You can choose to play again or exit the game.
+
